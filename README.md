@@ -12,6 +12,6 @@ Architecture
 Links
 - [Access Repository](https://github.com/solnancebnb/solnance)
 - [Website](https://solnance.org)
-- [Twitter](https://x.com/solnanceX)
+- [Twitter](https://x.com/solnancebnb)
 
 Built by developers, for developers.
