@@ -1,5 +1,4 @@
-Functional BNB × Solana Fork project showcasing bridge protocol mechanics and validator consensus design.  
-Built for transparency, technical exploration, and modular scalability.  
+THIS IS A SCAM HAHAHA ITS LARP
 
 Overview
 Solnance combines Solana’s high-performance infrastructure** with the BNB chain structure, creating a hybrid fork for exploration and demonstration.
